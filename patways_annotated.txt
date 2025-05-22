@@ -1,0 +1,387 @@
+mtu03010 Ribosome - Mycobacterium tuberculosis H37Rv 6
+
+Set size:  46
+   stat.mean         p.val      q.val      Exposed     Control Coregulated
+0  -3.780185  2.647689e-07  2.065e-05      S507_ST     S507_ML        Down
+0   1.250767  4.363498e-02      1.000      S507_ST     S507_ML        Both
+0   1.194089  2.457835e-02      0.994     S5527_ML     S507_ML          Up
+0   2.654116  1.741124e-04      0.014     S5527_ST     S507_ST          Up
+1   1.741845  7.784393e-03      0.304  S5527_MLexp  S507_MLexp          Up
+0  -2.128838  1.672151e-03      0.073     S5527_ST    S5527_ML        Down
+3  -1.256566  1.711481e-02      0.334   S507_MLexp     S507_ML        Down
+***
+mtu05152 Tuberculosis - Mycobacterium tuberculosis H37Rv 5
+
+Set size:  25
+   stat.mean     p.val  q.val      Exposed     Control Coregulated
+1  -1.610818  0.014785  0.554      S507_ST     S507_ML        Down
+0   1.309746  0.034112  1.000     S5527_ST     S507_ST        Both
+0   1.909526  0.004646  0.362  S5527_MLexp  S507_MLexp        Both
+0   2.000221  0.003341  0.261  S5527_MLexp  S507_MLexp          Up
+1  -2.115010  0.001869  0.073     S5527_ST    S5527_ML        Down
+0   1.503886  0.018747  1.000     S5527_ST    S5527_ML        Both
+0  -2.341088  0.000052  0.004   S507_MLexp     S507_ML        Down
+0   1.538293  0.004694  0.366   S507_MLexp     S507_ML        Both
+***
+mtu01110 Biosynthesis of secondary metabolites - Mycobacterium tuberculosis H37Rv 5
+
+Set size:  310
+   stat.mean         p.val      q.val      Exposed     Control Coregulated
+0   3.614388  2.091552e-07  1.631e-05      S507_ST     S507_ML          Up
+3  -1.315630  1.163251e-02      0.227     S5527_ML     S507_ML        Down
+0  -3.070730  9.079358e-06  7.082e-04  S5527_MLexp  S507_MLexp        Down
+0   4.334443  6.666075e-10  5.200e-08     S5527_ST    S5527_ML          Up
+0   2.378158  2.076922e-05      0.002   S507_MLexp     S507_ML          Up
+***
+mtu01200 Carbon metabolism - Mycobacterium tuberculosis H37Rv 5
+
+Set size:  93
+   stat.mean     p.val  q.val      Exposed     Control Coregulated
+3   2.141630  0.001374  0.027      S507_ST     S507_ML          Up
+1  -1.352434  0.009929  0.227     S5527_ML     S507_ML        Down
+2  -1.994907  0.002958  0.077  S5527_MLexp  S507_MLexp        Down
+3   2.763853  0.000058  0.001     S5527_ST    S5527_ML          Up
+4   1.395813  0.008184  0.128   S507_MLexp     S507_ML          Up
+***
+mtu02010 ABC transporters - Mycobacterium tuberculosis H37Rv 5
+
+Set size:  25
+   stat.mean     p.val  q.val      Exposed     Control Coregulated
+0   1.244479  0.017869  1.000     S5527_ML     S507_ML        Both
+2   1.251958  0.047203  0.704     S5527_ST     S507_ST          Up
+1   1.189400  0.048902  1.000  S5527_MLexp  S507_MLexp        Both
+2   1.277136  0.044209  1.000  S5527_MLexp  S507_MLexp          Up
+2  -1.465237  0.006715  0.175   S507_MLexp     S507_ML        Down
+1   1.233450  0.018258  0.503   S507_MLexp     S507_ML        Both
+0   1.407070  0.025581  1.000  S5527_MLexp    S5527_ML        Both
+***
+mtu01230 Biosynthesis of amino acids - Mycobacterium tuberculosis H37Rv 4
+
+Set size:  109
+   stat.mean     p.val  q.val      Exposed     Control Coregulated
+2   2.461645  0.000298  0.008      S507_ST     S507_ML          Up
+1  -2.085114  0.001936  0.076  S5527_MLexp  S507_MLexp        Down
+2   2.805616  0.000044  0.001     S5527_ST    S5527_ML          Up
+2   1.680330  0.001945  0.051   S507_MLexp     S507_ML          Up
+***
+mtu00720 Other carbon fixation pathways - Mycobacterium tuberculosis H37Rv 4
+
+Set size:  33
+    stat.mean     p.val  q.val      Exposed     Control Coregulated
+14   1.314158  0.034032  0.167      S507_ST     S507_ML          Up
+4   -1.229173  0.017768  0.274     S5527_ML     S507_ML        Down
+18  -1.209860  0.048437  0.189  S5527_MLexp  S507_MLexp        Down
+10   1.893134  0.004439  0.030     S5527_ST    S5527_ML          Up
+***
+mtu00280 Valine, leucine and isoleucine degradation - Mycobacterium tuberculosis H37Rv 4
+
+Set size:  42
+    stat.mean     p.val  q.val      Exposed     Control Coregulated
+4    1.882606  0.004577  0.071      S507_ST     S507_ML          Up
+6   -1.148768  0.024555  0.274     S5527_ML     S507_ML        Down
+15  -1.271687  0.041584  0.189  S5527_MLexp  S507_MLexp        Down
+5    2.510900  0.000287  0.004     S5527_ST    S5527_ML          Up
+***
+mtu00630 Glyoxylate and dicarboxylate metabolism - Mycobacterium tuberculosis H37Rv 4
+
+Set size:  42
+   stat.mean     p.val  q.val      Exposed     Control Coregulated
+5   1.819433  0.005721  0.074      S507_ST     S507_ML          Up
+0  -1.462564  0.006128  0.227     S5527_ML     S507_ML        Down
+7  -1.416075  0.025458  0.189  S5527_MLexp  S507_MLexp        Down
+6   2.087399  0.001915  0.021     S5527_ST    S5527_ML          Up
+***
+mtu01240 Biosynthesis of cofactors - Mycobacterium tuberculosis H37Rv 4
+
+Set size:  105
+   stat.mean     p.val  q.val      Exposed     Control Coregulated
+6   1.611897  0.011757  0.131      S507_ST     S507_ML          Up
+4  -1.805511  0.005999  0.094  S5527_MLexp  S507_MLexp        Down
+4   2.700506  0.000082  0.001     S5527_ST    S5527_ML          Up
+1   1.718231  0.001586  0.051   S507_MLexp     S507_ML          Up
+***
+mtu01120 Microbial metabolism in diverse environments - Mycobacterium tuberculosis H37Rv 4
+
+Set size:  183
+   stat.mean     p.val      q.val      Exposed     Control Coregulated
+1   2.726208  0.000065      0.003      S507_ST     S507_ML          Up
+3  -1.828928  0.005298      0.094  S5527_MLexp  S507_MLexp        Down
+1   3.296029  0.000002  7.525e-05     S5527_ST    S5527_ML          Up
+3   1.547610  0.003794      0.074   S507_MLexp     S507_ML          Up
+***
+mtu00270 Cysteine and methionine metabolism - Mycobacterium tuberculosis H37Rv 4
+
+Set size:  30
+    stat.mean     p.val  q.val      Exposed     Control Coregulated
+8    1.531143  0.016958  0.147      S507_ST     S507_ML          Up
+5   -1.537159  0.017359  0.189  S5527_MLexp  S507_MLexp        Down
+21   1.558581  0.015348  0.054     S5527_ST    S5527_ML          Up
+8    1.143465  0.025505  0.221   S507_MLexp     S507_ML          Up
+***
+mtu00620 Pyruvate metabolism - Mycobacterium tuberculosis H37Rv 3
+
+Set size:  41
+    stat.mean     p.val  q.val      Exposed     Control Coregulated
+21   1.189112  0.048881  0.167      S507_ST     S507_ML          Up
+10  -1.354847  0.030236  0.189  S5527_MLexp  S507_MLexp        Down
+12   1.852811  0.005072  0.030     S5527_ST    S5527_ML          Up
+***
+mtu00071 Fatty acid degradation - Mycobacterium tuberculosis H37Rv 3
+
+Set size:  31
+    stat.mean     p.val  q.val      Exposed     Control Coregulated
+17   1.262585  0.039473  0.167      S507_ST     S507_ML          Up
+19  -1.195321  0.049961  0.189  S5527_MLexp  S507_MLexp        Down
+22   1.528230  0.017002  0.058     S5527_ST    S5527_ML          Up
+***
+mtu00680 Methane metabolism - Mycobacterium tuberculosis H37Rv 3
+
+Set size:  23
+    stat.mean     p.val  q.val      Exposed     Control Coregulated
+7    1.554823  0.016068  0.147      S507_ST     S507_ML          Up
+12  -1.304159  0.037175  0.189  S5527_MLexp  S507_MLexp        Down
+7    1.168164  0.023577  0.221   S507_MLexp     S507_ML          Up
+***
+mtu00030 Pentose phosphate pathway - Mycobacterium tuberculosis H37Rv 3
+
+Set size:  18
+    stat.mean     p.val  q.val      Exposed     Control Coregulated
+19   1.243268  0.044910  0.167      S507_ST     S507_ML          Up
+14  -1.286114  0.040536  0.189  S5527_MLexp  S507_MLexp        Down
+15   1.785401  0.007791  0.035     S5527_ST    S5527_ML          Up
+***
+mtu00250 Alanine, aspartate and glutamate metabolism - Mycobacterium tuberculosis H37Rv 3
+
+Set size:  28
+    stat.mean     p.val  q.val      Exposed     Control Coregulated
+13   1.357346  0.030105  0.167      S507_ST     S507_ML          Up
+13  -1.267612  0.039682  0.189  S5527_MLexp  S507_MLexp        Down
+14   1.805929  0.006536  0.034     S5527_ST    S5527_ML          Up
+***
+mtu04122 Sulfur relay system - Mycobacterium tuberculosis H37Rv 3
+
+Set size:  16
+   stat.mean     p.val  q.val      Exposed   Control Coregulated
+5  -1.209213  0.022574  0.274     S5527_ML   S507_ML        Down
+5   1.278040  0.019051  0.221   S507_MLexp   S507_ML          Up
+0   1.879579  0.005817  0.454  S5527_MLexp  S5527_ML          Up
+***
+mtu03430 Mismatch repair - Mycobacterium tuberculosis H37Rv 3
+
+Set size:  10
+    stat.mean     p.val  q.val      Exposed   Control Coregulated
+26   1.460101  0.025391  0.073     S5527_ST  S5527_ML          Up
+6    1.197981  0.023155  0.221   S507_MLexp   S507_ML          Up
+2    1.294156  0.041983  0.766  S5527_MLexp  S5527_ML          Up
+***
+mtu00920 Sulfur metabolism - Mycobacterium tuberculosis H37Rv 2
+
+Set size:  17
+    stat.mean     p.val  q.val   Exposed   Control Coregulated
+10   1.449778  0.023475  0.166   S507_ST   S507_ML          Up
+28   1.352000  0.032535  0.087  S5527_ST  S5527_ML          Up
+***
+mtu00970 Aminoacyl-tRNA biosynthesis - Mycobacterium tuberculosis H37Rv 2
+
+Set size:  22
+    stat.mean     p.val  q.val   Exposed   Control Coregulated
+11   1.398211  0.028178  0.167   S507_ST   S507_ML          Up
+7    2.082382  0.002584  0.025  S5527_ST  S5527_ML          Up
+***
+mtu00400 Phenylalanine, tyrosine and tryptophan biosynthesis - Mycobacterium tuberculosis H37Rv 2
+
+Set size:  17
+    stat.mean     p.val  q.val   Exposed   Control Coregulated
+20   1.207808  0.048046  0.167   S507_ST   S507_ML          Up
+13   1.856706  0.005991  0.033  S5527_ST  S5527_ML          Up
+***
+mtu00010 Glycolysis / Gluconeogenesis - Mycobacterium tuberculosis H37Rv 2
+
+Set size:  29
+    stat.mean     p.val  q.val   Exposed   Control Coregulated
+12   1.374117  0.028982  0.167   S507_ST   S507_ML          Up
+18   1.693040  0.009926  0.041  S5527_ST  S5527_ML          Up
+***
+mtu00670 One carbon pool by folate - Mycobacterium tuberculosis H37Rv 2
+
+Set size:  17
+    stat.mean     p.val  q.val   Exposed   Control Coregulated
+18   1.257039  0.042469  0.167   S507_ST   S507_ML          Up
+25   1.442710  0.023965  0.072  S5527_ST  S5527_ML          Up
+***
+mtu00190 Oxidative phosphorylation - Mycobacterium tuberculosis H37Rv 2
+
+Set size:  36
+   stat.mean     p.val  q.val   Exposed  Control Coregulated
+2  -1.462075  0.021312  0.554   S507_ST  S507_ML        Down
+1   2.026805  0.002592  0.101  S5527_ST  S507_ST          Up
+***
+mtu01232 Nucleotide metabolism - Mycobacterium tuberculosis H37Rv 2
+
+Set size:  36
+    stat.mean     p.val  q.val   Exposed   Control Coregulated
+7   -1.049058  0.036296  0.304  S5527_ML   S507_ML        Down
+19   1.661002  0.010409  0.041  S5527_ST  S5527_ML          Up
+***
+mtu00640 Propanoate metabolism - Mycobacterium tuberculosis H37Rv 2
+
+Set size:  28
+    stat.mean     p.val  q.val   Exposed   Control Coregulated
+2   -1.336367  0.011534  0.227  S5527_ML   S507_ML        Down
+11   1.879930  0.004784  0.030  S5527_ST  S5527_ML          Up
+***
+mtu00710 Carbon fixation by Calvin cycle - Mycobacterium tuberculosis H37Rv 2
+
+Set size:  11
+    stat.mean     p.val  q.val   Exposed   Control Coregulated
+8   -1.004794  0.046809  0.304  S5527_ML   S507_ML        Down
+20   1.671308  0.013666  0.051  S5527_ST  S5527_ML          Up
+***
+mtu00362 Benzoate degradation - Mycobacterium tuberculosis H37Rv 2
+
+Set size:  21
+   stat.mean     p.val  q.val   Exposed   Control Coregulated
+9  -0.972762  0.049214  0.304  S5527_ML   S507_ML        Down
+9   2.012424  0.003261  0.025  S5527_ST  S5527_ML          Up
+***
+mtu00230 Purine metabolism - Mycobacterium tuberculosis H37Rv 2
+
+Set size:  47
+    stat.mean     p.val  q.val      Exposed     Control Coregulated
+17  -1.219989  0.044156  0.189  S5527_MLexp  S507_MLexp        Down
+16   1.732487  0.007878  0.035     S5527_ST    S5527_ML          Up
+***
+mtu01212 Fatty acid metabolism - Mycobacterium tuberculosis H37Rv 2
+
+Set size:  36
+   stat.mean     p.val  q.val      Exposed     Control Coregulated
+6  -1.489059  0.020287  0.189  S5527_MLexp  S507_MLexp        Down
+8   1.984252  0.003165  0.025     S5527_ST    S5527_ML          Up
+***
+mtu01210 2-Oxocarboxylic acid metabolism - Mycobacterium tuberculosis H37Rv 2
+
+Set size:  37
+   stat.mean     p.val  q.val      Exposed     Control Coregulated
+8  -1.414952  0.026080  0.189  S5527_MLexp  S507_MLexp        Down
+9   0.986479  0.045805  0.351   S507_MLexp     S507_ML          Up
+***
+mtu00790 Folate biosynthesis - Mycobacterium tuberculosis H37Rv 2
+
+Set size:  19
+    stat.mean     p.val  q.val      Exposed   Control Coregulated
+33   1.231442  0.044490  0.102     S5527_ST  S5527_ML          Up
+1    1.333728  0.033422  0.766  S5527_MLexp  S5527_ML          Up
+***
+mtu00260 Glycine, serine and threonine metabolism - Mycobacterium tuberculosis H37Rv 1
+
+Set size:  24
+    stat.mean     p.val  q.val  Exposed  Control Coregulated
+16    1.28811  0.037856  0.167  S507_ST  S507_ML          Up
+***
+mtu00380 Tryptophan metabolism - Mycobacterium tuberculosis H37Rv 1
+
+Set size:  25
+    stat.mean     p.val  q.val  Exposed  Control Coregulated
+15   1.303048  0.035048  0.167  S507_ST  S507_ML          Up
+***
+mtu00561 Glycerolipid metabolism - Mycobacterium tuberculosis H37Rv 1
+
+Set size:  21
+   stat.mean     p.val  q.val  Exposed  Control Coregulated
+3  -1.242025  0.042252  0.824  S507_ST  S507_ML        Down
+***
+mtu00360 Phenylalanine metabolism - Mycobacterium tuberculosis H37Rv 1
+
+Set size:  17
+   stat.mean     p.val  q.val  Exposed  Control Coregulated
+9   1.453176  0.023278  0.166  S507_ST  S507_ML          Up
+***
+mtu00074 Mycolic acid biosynthesis - Mycobacterium tuberculosis H37Rv 1
+
+Set size:  38
+   stat.mean     p.val  q.val      Exposed     Control Coregulated
+9  -1.396931  0.026458  0.189  S5527_MLexp  S507_MLexp        Down
+***
+mtu00240 Pyrimidine metabolism - Mycobacterium tuberculosis H37Rv 1
+
+Set size:  25
+    stat.mean     p.val  q.val      Exposed     Control Coregulated
+16  -1.250868  0.042628  0.189  S5527_MLexp  S507_MLexp        Down
+***
+mtu00020 Citrate cycle (TCA cycle) - Mycobacterium tuberculosis H37Rv 1
+
+Set size:  26
+    stat.mean     p.val  q.val      Exposed     Control Coregulated
+11  -1.340765  0.033313  0.189  S5527_MLexp  S507_MLexp        Down
+***
+mtu00220 Arginine biosynthesis - Mycobacterium tuberculosis H37Rv 1
+
+Set size:  19
+    stat.mean     p.val  q.val   Exposed   Control Coregulated
+23   1.495953  0.020665  0.065  S5527_ST  S5527_ML          Up
+***
+mtu01250 Biosynthesis of nucleotide sugars - Mycobacterium tuberculosis H37Rv 1
+
+Set size:  25
+    stat.mean     p.val  q.val   Exposed   Control Coregulated
+24   1.476228  0.020956  0.065  S5527_ST  S5527_ML          Up
+***
+mtu00650 Butanoate metabolism - Mycobacterium tuberculosis H37Rv 1
+
+Set size:  31
+    stat.mean     p.val  q.val   Exposed   Control Coregulated
+17   1.748596  0.007972  0.035  S5527_ST  S5527_ML          Up
+***
+mtu00541 Biosynthesis of various nucleotide sugars - Mycobacterium tuberculosis H37Rv 1
+
+Set size:  15
+    stat.mean     p.val  q.val   Exposed   Control Coregulated
+31   1.321449  0.035756  0.087  S5527_ST  S5527_ML          Up
+***
+mtu00310 Lysine degradation - Mycobacterium tuberculosis H37Rv 1
+
+Set size:  22
+    stat.mean     p.val  q.val   Exposed   Control Coregulated
+32   1.228512  0.044405  0.102  S5527_ST  S5527_ML          Up
+***
+mtu00983 Drug metabolism - other enzymes - Mycobacterium tuberculosis H37Rv 1
+
+Set size:  13
+    stat.mean     p.val  q.val   Exposed   Control Coregulated
+30   1.349057  0.035281  0.087  S5527_ST  S5527_ML          Up
+***
+mtu00520 Amino sugar and nucleotide sugar metabolism - Mycobacterium tuberculosis H37Rv 1
+
+Set size:  21
+    stat.mean     p.val  q.val   Exposed   Control Coregulated
+27   1.400208  0.027156  0.076  S5527_ST  S5527_ML          Up
+***
+mtu03060 Protein export - Mycobacterium tuberculosis H37Rv 1
+
+Set size:  12
+   stat.mean     p.val  q.val   Exposed   Control Coregulated
+2  -1.305709  0.038833  1.000  S5527_ST  S5527_ML        Down
+***
+mtu00910 Nitrogen metabolism - Mycobacterium tuberculosis H37Rv 1
+
+Set size:  14
+    stat.mean     p.val  q.val   Exposed   Control Coregulated
+29   1.328164  0.034928  0.087  S5527_ST  S5527_ML          Up
+***
+mtu00572 Arabinogalactan biosynthesis - Mycobacterium - Mycobacterium tuberculosis H37Rv 1
+
+Set size:  10
+   stat.mean     p.val  q.val     Exposed  Control Coregulated
+1  -1.661224  0.003145  0.123  S507_MLexp  S507_ML        Down
+***
+mtu01053 Biosynthesis of siderophore group nonribosomal peptides - Mycobacterium tuberculosis H37Rv 1
+
+Set size:  10
+   stat.mean     p.val  q.val     Exposed  Control Coregulated
+2   1.263431  0.019332  0.503  S507_MLexp  S507_ML        Both
+***
+mtu03070 Bacterial secretion system - Mycobacterium tuberculosis H37Rv 1
+
+Set size:  11
+   stat.mean   p.val  q.val     Exposed  Control Coregulated
+4  -0.998485  0.0478  0.746  S507_MLexp  S507_ML        Down
